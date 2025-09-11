@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajeeth</h1>
 <h3 align="center">Trying to escape the Matrix</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Nitya022004/Nitya022004/blob/main/download.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/ajxeth/ajxeth/blob/main/download.jpg">
 
 - 🌱 I’m currently learning **Web Development | HTML, CSS, JavaScript, and Front-End Frameworks**
 
